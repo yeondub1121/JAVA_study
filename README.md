@@ -1,2 +1,2 @@
 # JAVA_study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+자바를 처음부터 다시 공부해보자!
